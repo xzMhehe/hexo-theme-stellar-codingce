@@ -32,9 +32,9 @@ function layoutDiv() {
     el += markdown(__('footer.license', theme.footer.license));
   }
   if (source) {
-    el += markdown(__('footer.info_open_source', author, using, source));
+    el += markdown(__('footer.info_open_source', author, source));
   } else {
-    el += markdown(__('footer.info_not_open_source', author, using));
+    el += markdown(__('footer.info_not_open_source', author));
   }
   if (more) {
     if ((typeof more == 'string') && more.constructor == String) {
