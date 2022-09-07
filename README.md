@@ -27,7 +27,7 @@ npm i hexo-theme-stellar
 
 ## Usage
 
-See docs: https://xaoxuu.com/wiki/stellar/
+See docs: https://github.com/xzMhehe/hexo-theme-stellar-codingce
 
 ## Examples
 
@@ -35,6 +35,6 @@ https://xaoxuu.com
 
 ## Feedback
 
-Issues: https://github.com/xaoxuu/hexo-theme-stellar/issues/
+Issues: https://github.com/xzMhehe/hexo-theme-stellar-codingce/issues/
 
-Discussions: https://github.com/xaoxuu/hexo-theme-stellar/discussions/
+Discussions: https://github.com/xzMhehe/hexo-theme-stellar-codingce/discussions/

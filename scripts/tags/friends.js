@@ -1,5 +1,5 @@
 /**
- * friends.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * friends.js v1 | https://github.com/xzMhehe/hexo-theme-stellar-codingce/
  * 格式与官方标签插件一致使用空格分隔，中括号内的是可选参数（中括号不需要写出来）
  *
  * {% friends [only:group1] [not:group2] %}

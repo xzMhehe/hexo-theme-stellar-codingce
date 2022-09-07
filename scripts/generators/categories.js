@@ -1,5 +1,5 @@
 /**
- * categories v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * categories v1 | https://github.com/xzMhehe/hexo-theme-stellar-codingce/
  */
 
 hexo.extend.generator.register('categories', function (locals) {

@@ -1,8 +1,8 @@
 'use strict';
 
 hexo.extend.helper.register('stellar_info', function(args){
-  const repo = 'https://github.com/xaoxuu/hexo-theme-stellar';
-  const wiki = 'https://xaoxuu.com/wiki/stellar/';
+  const repo = 'https://github.com/xzMhehe/hexo-theme-stellar-codingce';
+  const wiki = 'https://github.com/xzMhehe/hexo-theme-stellar-codingce';
   const issues = repo + '/issues/';
   const { version } = require('../../package.json');
   const cfg = hexo.theme.config.stellar;

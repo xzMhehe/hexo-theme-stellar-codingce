@@ -1,5 +1,5 @@
 /**
- * 修饰文本标签 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * 修饰文本标签 | https://github.com/xzMhehe/hexo-theme-stellar-codingce/
  *
  * example:
  * {% psw 这是密码 %}

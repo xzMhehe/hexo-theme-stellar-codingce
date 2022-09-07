@@ -1,5 +1,5 @@
 /**
- * issues.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * issues.js v1 | https://github.com/xzMhehe/hexo-theme-stellar-codingce/
  * 格式与官方标签插件一致使用空格分隔，中括号内的是可选参数（中括号不需要写出来）
  *
  * {% issues [sites/timeline/friends] api:xxx [group:key=value1,value2,value3] %}

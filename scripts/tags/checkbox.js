@@ -1,6 +1,6 @@
 /**
- * checkbox.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
- * radio.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * checkbox.js v1 | https://github.com/xzMhehe/hexo-theme-stellar-codingce/
+ * radio.js v1 | https://github.com/xzMhehe/hexo-theme-stellar-codingce/
  * 格式与官方标签插件一致使用空格分隔，中括号内的是可选参数（中括号不需要写出来）
  *
  * {% checkbox [checked:false] [color:cyan] [symbol:plus/minus/times] text %}
